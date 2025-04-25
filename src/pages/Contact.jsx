@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Mail, Phone, MapPin } from 'lucide-react';
 
@@ -19,7 +18,7 @@ const Contact = () => {
       [name]: value
     }));
   };
-  
+   
   const handleSubmit = (e) => {
     e.preventDefault();
     // Normaal gesproken zou je hier het formulier naar een server sturen
@@ -172,7 +171,7 @@ const Contact = () => {
           <div className="text-center mb-6">
             <h2 className="text-2xl font-bold mb-2">Boek onze Foodtruck</h2>
             <p className="text-waffle-chocolate/80 max-w-2xl mx-auto">
-              Wil je onze WaffleKing foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
+              Wil je onze WaffleThing foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
               We maken er graag een onvergetelijke wafelervaring van!
             </p>
           </div>

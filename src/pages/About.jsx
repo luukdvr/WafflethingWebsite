@@ -1,4 +1,3 @@
-
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
@@ -7,7 +6,7 @@ const About = () => {
     <div className="pt-24 pb-16 bg-waffle-cream">
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van WaffleKing</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van WaffleThing</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
             Leer ons beter kennen en ontdek waar onze passie voor wafels vandaan komt.
           </p>
@@ -17,23 +16,23 @@ const About = () => {
           <div>
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Onze Roots</h2>
             <p className="mb-4">
-              WaffleKing begon in 2015 als een klein familieproject in de keuken van oprichter Joost Bakker. 
-              Met een oud recept van zijn Belgische grootmoeder begon hij te experimenteren met verschillende wafelsoorten en toppings.
+              WaffleThing begon in 2023 als een klein familieproject in de keuken van oprichter Marlon. 
+              Met een oud recept begon hij te experimenteren met verschillende wafelsoorten en toppings.
             </p>
             <p className="mb-4">
               Wat begon als een hobby, groeide al snel uit tot een passie. Vrienden en familie waren zo enthousiast over zijn wafels 
-              dat Joost besloot om zijn creaties te delen met een groter publiek.
+              dat Marlon besloot om zijn creaties te delen met een groter publiek.
             </p>
             <p>
-              In 2017 begon WaffleKing met een kleine foodtruck op lokale markten, en het duurde niet lang voordat we werden uitgenodigd 
+              In 2024 begon WaffleThing met een kleine foodtruck op lokale markten, en het duurde niet lang voordat we werden uitgenodigd 
               voor festivals en evenementen door heel Nederland. Vandaag de dag zijn we trots op onze reputatie als één van de beste wafelmakers van het land.
             </p>
           </div>
           
           <div className="relative">
             <img 
-              src="/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png" 
-              alt="WaffleKing oprichter"
+              src="/fotos/Afbeelding van WhatsApp op 2025-04-23 om 13.55.30_737a6d52.jpg" 
+              alt="WaffleThing oprichter"
               className="rounded-xl shadow-lg"
             />
           </div>
@@ -68,7 +67,7 @@ const About = () => {
           <div className="order-1 md:order-2">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Wat Ons Uniek Maakt</h2>
             <p className="mb-4">
-              Bij WaffleKing geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
+              Bij WaffleThing geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
               We gebruiken biologische bloem, verse eieren van lokale boerderijen en echte Belgische roomboter.
             </p>
             <p className="mb-4">

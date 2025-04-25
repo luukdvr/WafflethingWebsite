@@ -5,8 +5,7 @@ import { ShoppingCart } from 'lucide-react';
 const waffleCategories = [
   { id: 'classics', name: 'Klassiekers' },
   { id: 'special', name: 'Specials' },
-  { id: 'savory', name: 'Hartig' },
-  { id: 'drinks', name: 'Dranken' }
+  { id: 'savory', name: 'Hartig' }
 ];
 
 const menuItems = [
@@ -14,7 +13,7 @@ const menuItems = [
     id: 1,
     name: 'Aardbei Deluxe',
     description: 'Verse aardbeien met slagroom en witte chocolade',
-    image: '/lovable-uploads/d438d804-15e3-4ad9-b08e-e6666b4bc0cf.png',
+    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
     price: 7.50,
     category: 'classics'
   },
@@ -22,7 +21,7 @@ const menuItems = [
     id: 2,
     name: 'Choco Dream',
     description: 'Rijkelijk versierd met pure en witte chocolade',
-    image: '/lovable-uploads/db088c5b-154d-4e10-81b7-30231bad401f.png',
+    image: '/lovable-uploads/635cc4c6-fcb0-466f-89fb-6b475ec680e2.png',
     price: 8.25,
     category: 'classics'
   },
@@ -54,25 +53,9 @@ const menuItems = [
     id: 6,
     name: 'Wafelburger',
     description: 'Hamburger tussen twee wafels met cheddar, sla en tomaat',
-    image: '/lovable-uploads/b5b9788c-f1bc-4cee-a55e-d74e1e105aff.png',
+    image: '/fotos/Afbeelding van WhatsApp op 2025-04-23 om 14.02.37_f5278820.jpg',
     price: 10.95,
     category: 'savory'
-  },
-  {
-    id: 7,
-    name: 'Verse Muntthee',
-    description: 'Heerlijke thee met verse munt',
-    image: '/placeholder.svg',
-    price: 3.50,
-    category: 'drinks'
-  },
-  {
-    id: 8,
-    name: 'Warme Chocolademelk',
-    description: 'Romige warme chocolademelk met slagroom',
-    image: '/placeholder.svg',
-    price: 4.25,
-    category: 'drinks'
   }
 ];
 

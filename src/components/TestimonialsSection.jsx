@@ -8,14 +8,14 @@ const testimonials = [
     name: 'Lisa de Vries',
     rating: 5,
     text: 'De lekkerste wafels die ik ooit heb gegeten! De aardbeiwafel is mijn favoriet. Echt een aanrader!',
-    image: '/lovable-uploads/a530cfbc-5b8b-4460-a5ff-92daa5b53e88.png',
+    image: '/lovable-uploads/6eaabd4d-2454-4b09-a02e-58e2007d96ef.png',
   },
   {
     id: 2,
     name: 'Mark Jansen',
     rating: 5,
     text: 'Wat een geweldige ervaring bij WaffleKing! De chocoladewafel was hemels en de service uitstekend.',
-    image: '/lovable-uploads/8d4bac9b-48fd-40ab-a75c-c0e0f100dd66.png',
+    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
   },
   {
     id: 3,

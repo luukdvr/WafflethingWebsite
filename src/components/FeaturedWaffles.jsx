@@ -6,21 +6,21 @@ const waffles = [
     id: 1,
     name: 'Aardbei Deluxe',
     description: 'Verse aardbeien met slagroom en witte chocolade',
-    image: '/lovable-uploads/d438d804-15e3-4ad9-b08e-e6666b4bc0cf.png',
+    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
     price: '€7,50'
   },
   {
     id: 2,
     name: 'Choco Dream',
     description: 'Rijkelijk versierd met pure en witte chocolade',
-    image: '/lovable-uploads/db088c5b-154d-4e10-81b7-30231bad401f.png',
+    image: '/lovable-uploads/a4d62a11-73ee-4f9b-8017-1cf831878c88.png',
     price: '€8,25'
   },
   {
     id: 3,
     name: 'Karamel Stapel',
     description: 'Gestapelde wafels met karamelsaus en slagroom',
-    image: '/lovable-uploads/a4d62a11-73ee-4f9b-8017-1cf831878c88.png',
+    image: '/lovable-uploads/635cc4c6-fcb0-466f-89fb-6b475ec680e2.png',
     price: '€9,50'
   }
 ];

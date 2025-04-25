@@ -1,4 +1,3 @@
-
 import { ArrowRight, Phone, Clock } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
@@ -33,7 +32,6 @@ const HeroSection = () => {
                   <Phone className="text-waffle-strawberry" />
                   <div>
                     <h3 className="font-bold">Telefonisch bestellen</h3>
-                    <p>06 1234 5678</p>
                   </div>
                 </div>
               </div>

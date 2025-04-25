@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Star, ChevronLeft, ChevronRight, User } from 'lucide-react';
 
@@ -7,24 +6,21 @@ const reviews = [
     id: 1,
     name: 'Lisa de Vries',
     rating: 5,
-    date: '15 maart 2025',
-    text: 'De lekkerste wafels die ik ooit heb gegeten! De aardbeiwafel is mijn favoriet. De wafels zijn knapperig aan de buitenkant en zacht vanbinnen, precies zoals het hoort. Ook de bediening is super vriendelijk. Echt een aanrader!',
-    image: '/lovable-uploads/a530cfbc-5b8b-4460-a5ff-92daa5b53e88.png',
+    text: 'De lekkerste wafels die ik ooit heb gegeten! De aardbeiwafel is mijn favoriet. Echt een aanrader!',
+    image: '/lovable-uploads/6eaabd4d-2454-4b09-a02e-58e2007d96ef.png',
   },
   {
     id: 2,
     name: 'Mark Jansen',
     rating: 5,
-    date: '2 maart 2025',
-    text: 'Wat een geweldige ervaring bij WaffleKing! De chocoladewafel was hemels en de service uitstekend. Je kunt echt proeven dat ze met verse ingrediënten werken. Ik kom zeker terug!',
-    image: '/lovable-uploads/8d4bac9b-48fd-40ab-a75c-c0e0f100dd66.png',
+    text: 'Wat een geweldige ervaring bij WaffleKing! De chocoladewafel was hemels en de service uitstekend.',
+    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
   },
   {
     id: 3,
     name: 'Emma Bakker',
     rating: 4,
-    date: '18 februari 2025',
-    text: 'Super lekkere wafels en een gezellige sfeer. Mijn kinderen zijn er dol op! We komen elke keer als de foodtruck in de buurt is. De wafelburger was een leuke verrassing - verrassend lekker!',
+    text: 'Super lekkere wafels en een gezellige sfeer. Mijn kinderen zijn er dol op!',
     image: '/lovable-uploads/635cc4c6-fcb0-466f-89fb-6b475ec680e2.png',
   },
   {
