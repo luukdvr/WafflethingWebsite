@@ -1,4 +1,3 @@
-
 import { Link } from 'react-router-dom';
 
 const waffles = [
@@ -6,22 +5,19 @@ const waffles = [
     id: 1,
     name: 'Aardbei Deluxe',
     description: 'Verse aardbeien met slagroom en witte chocolade',
-    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
-    price: '€7,50'
+    image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png'
   },
   {
     id: 2,
     name: 'Choco Dream',
     description: 'Rijkelijk versierd met pure en witte chocolade',
-    image: '/lovable-uploads/a4d62a11-73ee-4f9b-8017-1cf831878c88.png',
-    price: '€8,25'
+    image: '/lovable-uploads/a4d62a11-73ee-4f9b-8017-1cf831878c88.png'
   },
   {
     id: 3,
-    name: 'Karamel Stapel',
-    description: 'Gestapelde wafels met karamelsaus en slagroom',
-    image: '/lovable-uploads/635cc4c6-fcb0-466f-89fb-6b475ec680e2.png',
-    price: '€9,50'
+    name: 'Burger Wafel',
+    description: 'Hartige wafel met een sappige burger, kaas en verse groenten',
+    image: '/fotos/Afbeelding van WhatsApp op 2025-04-23 om 14.02.37_f5278820.jpg'
   }
 ];
 
@@ -32,7 +28,8 @@ const FeaturedWaffles = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Onze Populairste Wafels</h2>
           <p className="text-lg text-waffle-chocolate/80 max-w-2xl mx-auto">
-            Huisgemaakte lekkernijen die je niet mag missen. Elk met liefde bereid en met de beste ingrediënten.
+            Huisgemaakte lekkernijen die je niet mag missen. Elk met liefde bereid en met de beste ingrediënten van WaffelThing. 
+            <strong>Onze exclusieve wafels zijn uniek in Nederland!</strong>
           </p>
         </div>
         

@@ -16,7 +16,7 @@ const About = () => {
           <div>
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Onze Roots</h2>
             <p className="mb-4">
-              WaffleThing begon in 2023 als een klein familieproject in de keuken van oprichter Marlon. 
+              WaffelThing begon in 2023 als een klein familieproject in de keuken van oprichter Marlon. 
               Met een oud recept begon hij te experimenteren met verschillende wafelsoorten en toppings.
             </p>
             <p className="mb-4">
@@ -24,7 +24,7 @@ const About = () => {
               dat Marlon besloot om zijn creaties te delen met een groter publiek.
             </p>
             <p>
-              In 2024 begon WaffleThing met een kleine foodtruck op lokale markten, en het duurde niet lang voordat we werden uitgenodigd 
+              In 2024 begon WaffelThing met een kleine foodtruck op lokale markten, en het duurde niet lang voordat we werden uitgenodigd 
               voor festivals en evenementen door heel Nederland. Vandaag de dag zijn we trots op onze reputatie als één van de beste wafelmakers van het land.
             </p>
           </div>
@@ -73,6 +73,10 @@ const About = () => {
             <p className="mb-4">
               Onze toppings worden elke dag vers bereid, en we werken samen met lokale producenten voor onze 
               aardbeien, chocolade en andere lekkernijen.
+            </p>
+            <p className="mb-4">
+              Bij WaffelThing geloven we in unieke smaken. Onze exclusieve wafelrecepten zijn zorgvuldig ontwikkeld en 
+              nergens anders in Nederland verkrijgbaar. Dit maakt elke hap een unieke ervaring!
             </p>
             <p>
               Ook vinden we duurzaamheid belangrijk. Onze verpakkingen zijn biologisch afbreekbaar en we proberen 

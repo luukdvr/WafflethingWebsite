@@ -8,14 +8,15 @@ const HeroSection = () => {
         <div className="absolute inset-0 bg-waffle-caramel/5 pattern-waffle"></div>
       </div>
       
-      <div className="container mx-auto px-4 md:px-6 py-20 md:py-32 relative z-10">
+      <div className="container mx-auto px-4 md:px-6 py-5 md:py-10 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               Ontdek de Heerlijkste <span className="text-waffle-strawberry">Wafels</span> van Nederland
             </h1>
             <p className="text-lg md:text-xl mb-8 text-waffle-chocolate/80">
-              Huisgemaakte wafels met de verrukkelijkste toppings, ambachtelijk bereid en perfect voor elk moment van de dag.
+              Huisgemaakte wafels met de verrukkelijkste toppings, ambachtelijk bereid en perfect voor elk moment van de dag. 
+              <strong>Onze exclusieve recepten zijn nergens anders in Nederland te vinden!</strong>
             </p>
             
             <div className="bg-white/80 backdrop-blur rounded-xl p-6 mb-8">
@@ -41,8 +42,8 @@ const HeroSection = () => {
               <a href="tel:+31612345678" className="waffle-btn">
                 Bel om te bestellen <Phone size={18} />
               </a>
-              <Link to="/festivals" className="bg-waffle-pink text-waffle-strawberry hover:bg-waffle-pink/80 font-medium py-3 px-6 rounded-full transition-colors duration-300 inline-flex items-center gap-2">
-                Bekijk festivals <ArrowRight size={18} />
+              <Link to="/events" className="bg-waffle-pink text-waffle-strawberry hover:bg-waffle-pink/80 font-medium py-3 px-6 rounded-full transition-colors duration-300 inline-flex items-center gap-2">
+                Ook op events! <ArrowRight size={18} />
               </Link>
             </div>
           </div>

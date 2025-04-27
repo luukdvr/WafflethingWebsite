@@ -127,7 +127,7 @@ const Contact = () => {
                   <Phone className="text-waffle-strawberry mt-1 mr-4" />
                   <div>
                     <h3 className="font-bold mb-1">Telefoon</h3>
-                    <p>+31 6 12345678</p>
+                    <p>+31 6 49100041</p>
                   </div>
                 </div>
                 
@@ -135,7 +135,7 @@ const Contact = () => {
                   <Mail className="text-waffle-strawberry mt-1 mr-4" />
                   <div>
                     <h3 className="font-bold mb-1">E-mail</h3>
-                    <p>info@waffleking.nl</p>
+                    <p>info@WaffelThing.nl</p>
                   </div>
                 </div>
                 
@@ -161,7 +161,7 @@ const Contact = () => {
                 style={{ border: 0 }} 
                 allowFullScreen="" 
                 loading="lazy"
-                title="WaffleKing locatie"
+                title="WaffelThing locatie"
               ></iframe>
             </div>
           </div>
@@ -171,41 +171,9 @@ const Contact = () => {
           <div className="text-center mb-6">
             <h2 className="text-2xl font-bold mb-2">Boek onze Foodtruck</h2>
             <p className="text-waffle-chocolate/80 max-w-2xl mx-auto">
-              Wil je onze WaffleThing foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
+              Wil je onze WaffelThing foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
               We maken er graag een onvergetelijke wafelervaring van!
             </p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div className="bg-white rounded-lg p-6 shadow text-center">
-              <h3 className="text-xl font-bold mb-2">Kleine events</h3>
-              <p className="mb-4 text-waffle-chocolate/80">Perfect voor kleine feesten tot 50 personen</p>
-              <p className="font-bold text-waffle-strawberry text-2xl mb-4">€350</p>
-              <button className="waffle-btn w-full">
-                Aanvragen
-              </button>
-            </div>
-            
-            <div className="bg-white rounded-lg p-6 shadow text-center transform scale-105 border-2 border-waffle-strawberry">
-              <div className="bg-waffle-strawberry text-white py-1 px-3 rounded absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-                Populair
-              </div>
-              <h3 className="text-xl font-bold mb-2">Medium events</h3>
-              <p className="mb-4 text-waffle-chocolate/80">Voor evenementen tot 100 personen</p>
-              <p className="font-bold text-waffle-strawberry text-2xl mb-4">€650</p>
-              <button className="waffle-btn w-full">
-                Aanvragen
-              </button>
-            </div>
-            
-            <div className="bg-white rounded-lg p-6 shadow text-center">
-              <h3 className="text-xl font-bold mb-2">Grote events</h3>
-              <p className="mb-4 text-waffle-chocolate/80">Voor festivals en grote evenementen</p>
-              <p className="font-bold text-waffle-strawberry text-2xl mb-4">€950</p>
-              <button className="waffle-btn w-full">
-                Aanvragen
-              </button>
-            </div>
           </div>
         </div>
       </div>

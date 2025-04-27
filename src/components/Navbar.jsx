@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Clock, Phone } from 'lucide-react';
@@ -12,7 +11,7 @@ const Navbar = () => {
     { name: 'Home', path: '/' },
     { name: 'Over ons', path: '/about' },
     { name: 'Menu', path: '/menu' },
-    { name: 'Festivals', path: '/festivals' },
+    { name: 'Events', path: '/events' },
     { name: 'Reviews', path: '/reviews' },
     { name: 'Contact', path: '/contact' },
   ];
@@ -33,10 +32,10 @@ const Navbar = () => {
   return (
     <nav className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white/95 shadow-md py-2' : 'bg-transparent py-4'}`}>
       <div className="container mx-auto px-4 md:px-6">
-        <div className="flex justify-between items-center">
+        <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center">
             <span className="font-pacifico text-2xl md:text-3xl text-waffle-caramel">
-              WaffleThing
+              WaffelThing
             </span>
           </Link>
 
@@ -51,7 +50,7 @@ const Navbar = () => {
               className="flex items-center gap-2 text-waffle-chocolate hover:text-waffle-strawberry transition-colors"
             >
               <Phone size={16} />
-              <span>06 1234 5678</span>
+              <span>06 49100041</span>
             </a>
           </div>
 

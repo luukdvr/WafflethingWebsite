@@ -13,7 +13,7 @@ const reviews = [
     id: 2,
     name: 'Mark Jansen',
     rating: 5,
-    text: 'Wat een geweldige ervaring bij WaffleKing! De chocoladewafel was hemels en de service uitstekend.',
+    text: 'Wat een geweldige ervaring bij WaffelThing! De chocoladewafel was hemels en de service uitstekend.',
     image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
   },
   {
@@ -28,7 +28,7 @@ const reviews = [
     name: 'Sofie Hendriks',
     rating: 5,
     date: '5 februari 2025',
-    text: 'Heerlijke wafels bij WaffleKing! De karamelsaus is goddelijk. Ik kon niet kiezen dus heb er twee besteld. Geen spijt van!',
+    text: 'Heerlijke wafels bij WaffelThing! De karamelsaus is goddelijk. Ik kon niet kiezen dus heb er twee besteld. Geen spijt van!',
     image: null,
   },
   {
@@ -44,7 +44,7 @@ const reviews = [
     name: 'Nina Vermeer',
     rating: 5,
     date: '15 januari 2025',
-    text: 'Als Belgische ben ik kritisch op wafels, maar WaffleKing doet het echt goed! Authentieke smaak met een moderne twist. Aanrader!',
+    text: 'Als Belgische ben ik kritisch op wafels, maar WaffelThing doet het echt goed! Authentieke smaak met een moderne twist. Aanrader!',
     image: null,
   }
 ];

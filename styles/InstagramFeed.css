@@ -1,0 +1,18 @@
+#instagram-feed {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.instagram-posts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.instagram-posts img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}

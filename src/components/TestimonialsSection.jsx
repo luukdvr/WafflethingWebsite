@@ -14,7 +14,7 @@ const testimonials = [
     id: 2,
     name: 'Mark Jansen',
     rating: 5,
-    text: 'Wat een geweldige ervaring bij WaffleKing! De chocoladewafel was hemels en de service uitstekend.',
+    text: 'Wat een geweldige ervaring bij WaffelThing! De chocoladewafel was hemels en de service uitstekend.',
     image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
   },
   {

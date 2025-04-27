@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto py-10 px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           <div>
-            <h3 className="text-xl font-pacifico mb-4 text-waffle-strawberry">WaffleThing</h3>
+            <h3 className="text-xl font-pacifico mb-4 text-waffle-strawberry">WaffelThing</h3>
             <p className="mb-4">De lekkerste ambachtelijke wafels, vers bereid met alleen de beste ingrediënten.</p>
             <div className="flex space-x-4 mt-4">
               <a href="https://facebook.com" className="text-waffle-cream hover:text-waffle-strawberry transition-colors">
@@ -68,7 +68,9 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-waffle-caramel/30 mt-10 pt-6 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} WaffleThing. Alle rechten voorbehouden.</p>
+          <p>&copy; {new Date().getFullYear()} WaffelThing. Alle rechten voorbehouden. 
+            <span className="block mt-2">Exclusieve wafels, alleen bij ons verkrijgbaar.</span>
+          </p>
         </div>
       </div>
     </footer>
