@@ -28,7 +28,7 @@ const FeaturedWaffles = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Onze Populairste Wafels</h2>
           <p className="text-lg text-waffle-chocolate/80 max-w-2xl mx-auto">
-            Huisgemaakte lekkernijen die je niet mag missen. Elk met liefde bereid en met de beste ingrediënten van WaffelThing. 
+            Huisgemaakte lekkernijen die je niet mag missen. Elk met liefde bereid en met de beste ingrediënten van WaffelThingNL. 
             <strong>Onze exclusieve wafels zijn uniek in Nederland!</strong>
           </p>
         </div>

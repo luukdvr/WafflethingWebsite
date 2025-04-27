@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-gradient-to-b from-waffle-cream to-waffle-pink min-h-screen flex items-center">
+    <section className="relative background-pattern min-h-screen flex items-center">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-waffle-caramel/5 pattern-waffle"></div>
       </div>
@@ -16,7 +16,7 @@ const HeroSection = () => {
             </h1>
             <p className="text-lg md:text-xl mb-8 text-waffle-chocolate/80">
               Huisgemaakte wafels met de verrukkelijkste toppings, ambachtelijk bereid en perfect voor elk moment van de dag. 
-              <strong>Onze exclusieve recepten zijn nergens anders in Nederland te vinden!</strong>
+              <strong>Onze exclusieve recepten zijn nergens anders in Nederland te vinden!</strong> - WaffelThingNL
             </p>
             
             <div className="bg-white/80 backdrop-blur rounded-xl p-6 mb-8">

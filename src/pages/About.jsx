@@ -3,36 +3,46 @@ import { Link } from 'react-router-dom';
 
 const About = () => {
   return (
-    <div className="pt-24 pb-16 bg-waffle-cream">
+    <div 
+      className="pt-24 pb-16 bg-waffle-cream" 
+      style={{ 
+        backgroundImage: "url('/fotos/Ongetiteld.png')", 
+        backgroundSize: "1400px", 
+        backgroundRepeat: "repeat-y", 
+        backgroundPosition: "center" 
+      }}
+    >
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van WaffleThing</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van It’s a Waffle Thing</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            Leer ons beter kennen en ontdek waar onze passie voor wafels vandaan komt.
+            It’s a Waffle Thing brengt traditionele Afrikaanse wafelrecepten samen met moderne streetfood-invloeden. 
+            We serveren exclusieve wafels in zoete en hartige varianten, met unieke toppings zoals seizoensfruit, 
+            premium chocolade en halal vlees- en kipburgers.
           </p>
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-16">
           <div>
-            <h2 className="text-2xl md:text-3xl font-bold mb-4">Onze Roots</h2>
+            <h2 className="text-2xl md:text-3xl font-bold mb-4">Onze Missie</h2>
             <p className="mb-4">
-              WaffelThing begon in 2023 als een klein familieproject in de keuken van oprichter Marlon. 
-              Met een oud recept begon hij te experimenteren met verschillende wafelsoorten en toppings.
+              We starten in Rotterdam met een afhaal- en bezorglocatie en werken toe naar uitbreiding met een restaurant, 
+              foodtruck en uiteindelijk een franchiseconcept. Onze missie: de Afrikaanse wafeltraditie vernieuwen en toegankelijk 
+              maken voor een breed publiek.
             </p>
             <p className="mb-4">
-              Wat begon als een hobby, groeide al snel uit tot een passie. Vrienden en familie waren zo enthousiast over zijn wafels 
-              dat Marlon besloot om zijn creaties te delen met een groter publiek.
+              Met focus op kwaliteit, creativiteit en visuele beleving willen we een onvergetelijke streetfood-ervaring bieden. 
+              Door samenwerkingen met artiesten en influencers bouwen we snel aan onze naamsbekendheid.
             </p>
             <p>
-              In 2024 begon WaffelThing met een kleine foodtruck op lokale markten, en het duurde niet lang voordat we werden uitgenodigd 
-              voor festivals en evenementen door heel Nederland. Vandaag de dag zijn we trots op onze reputatie als één van de beste wafelmakers van het land.
+              It’s a Waffle Thing – waar traditie en streetfood samenkomen.
             </p>
           </div>
           
           <div className="relative">
             <img 
               src="/fotos/Afbeelding van WhatsApp op 2025-04-23 om 13.55.30_737a6d52.jpg" 
-              alt="WaffleThing oprichter"
+              alt="It’s a Waffle Thing oprichter"
               className="rounded-xl shadow-lg"
             />
           </div>
@@ -67,7 +77,7 @@ const About = () => {
           <div className="order-1 md:order-2">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Wat Ons Uniek Maakt</h2>
             <p className="mb-4">
-              Bij WaffleThing geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
+              Bij WaffleThingNL geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
               We gebruiken biologische bloem, verse eieren van lokale boerderijen en echte Belgische roomboter.
             </p>
             <p className="mb-4">
@@ -75,7 +85,7 @@ const About = () => {
               aardbeien, chocolade en andere lekkernijen.
             </p>
             <p className="mb-4">
-              Bij WaffelThing geloven we in unieke smaken. Onze exclusieve wafelrecepten zijn zorgvuldig ontwikkeld en 
+              Bij WaffelThingNL geloven we in unieke smaken. Onze exclusieve wafelrecepten zijn zorgvuldig ontwikkeld en 
               nergens anders in Nederland verkrijgbaar. Dit maakt elke hap een unieke ervaring!
             </p>
             <p>

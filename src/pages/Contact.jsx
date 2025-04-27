@@ -135,7 +135,7 @@ const Contact = () => {
                   <Mail className="text-waffle-strawberry mt-1 mr-4" />
                   <div>
                     <h3 className="font-bold mb-1">E-mail</h3>
-                    <p>info@WaffelThing.nl</p>
+                    <p>info@WaffelThingNL.nl</p>
                   </div>
                 </div>
                 
@@ -161,7 +161,7 @@ const Contact = () => {
                 style={{ border: 0 }} 
                 allowFullScreen="" 
                 loading="lazy"
-                title="WaffelThing locatie"
+                title="WaffelThingNL locatie"
               ></iframe>
             </div>
           </div>
@@ -171,7 +171,7 @@ const Contact = () => {
           <div className="text-center mb-6">
             <h2 className="text-2xl font-bold mb-2">Boek onze Foodtruck</h2>
             <p className="text-waffle-chocolate/80 max-w-2xl mx-auto">
-              Wil je onze WaffelThing foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
+              Wil je onze WaffelThingNL foodtruck boeken voor jouw evenement, bruiloft of bedrijfsfeest? 
               We maken er graag een onvergetelijke wafelervaring van!
             </p>
           </div>

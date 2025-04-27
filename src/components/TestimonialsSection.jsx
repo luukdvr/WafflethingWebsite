@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { Star } from 'lucide-react';
 
@@ -14,7 +13,7 @@ const testimonials = [
     id: 2,
     name: 'Mark Jansen',
     rating: 5,
-    text: 'Wat een geweldige ervaring bij WaffelThing! De chocoladewafel was hemels en de service uitstekend.',
+    text: 'Wat een geweldige ervaring bij WaffelThingNL! De chocoladewafel was hemels en de service uitstekend.',
     image: '/lovable-uploads/e0484911-9f25-434a-9f23-cb8002a58501.png',
   },
   {
@@ -35,7 +34,7 @@ const TestimonialsSection = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Wat Klanten Zeggen</h2>
           <p className="text-lg text-waffle-chocolate/80 max-w-2xl mx-auto">
-            Ontdek waarom onze klanten steeds terugkomen voor onze heerlijke wafels.
+            Ontdek waarom onze klanten steeds terugkomen voor onze heerlijke wafels van WaffelThingNL.
           </p>
         </div>
         

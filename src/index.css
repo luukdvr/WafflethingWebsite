@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;500;600;700&display=swap');
 
 @tailwind base;
@@ -89,6 +88,73 @@
 
   h1, h2, h3, h4, h5, h6 {
     @apply font-pacifico text-waffle-chocolate;
+  }
+
+  .background-pattern {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .background-pattern::before,
+  .background-pattern::after {
+    content: '';
+    position: absolute;
+    background-image: url('/fotos/dessert-waffle-with-fruit-icon-isolated.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.2; /* Doorzichtig effect */
+    z-index: -1; /* Achtergrond */
+  }
+
+  .background-pattern::before {
+    top: 10%;
+    left: 15%;
+    width: 120px;
+    height: 120px;
+    transform: rotate(15deg);
+  }
+
+  .background-pattern::after {
+    bottom: 20%;
+    right: 10%;
+    width: 180px;
+    height: 180px;
+    transform: rotate(-25deg);
+  }
+
+  .background-pattern .wafel-1,
+  .background-pattern .wafel-2,
+  .background-pattern .wafel-3 {
+    position: absolute;
+    background-image: url('/fotos/dessert-waffle-with-fruit-icon-isolated.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.2;
+    z-index: -1;
+  }
+
+  .background-pattern .wafel-1 {
+    top: 30%;
+    left: 40%;
+    width: 100px;
+    height: 100px;
+    transform: rotate(10deg);
+  }
+
+  .background-pattern .wafel-2 {
+    top: 50%;
+    left: 60%;
+    width: 150px;
+    height: 150px;
+    transform: rotate(-15deg);
+  }
+
+  .background-pattern .wafel-3 {
+    top: 70%;
+    left: 80%;
+    width: 150px;
+    height: 150px;
+    transform: rotate(-15deg);
   }
 }
 

@@ -2,8 +2,15 @@ import { CalendarDays } from 'lucide-react';
 
 const FestivalHighlight = () => {
   return (
-    <section className="py-16 bg-gradient-to-br from-waffle-pink to-waffle-cream">
-      <div className="container mx-auto px-4 md:px-6">
+    <section
+      className="py-16 bg-gradient-to-br from-waffle-pink to-waffle-cream relative bg-cover bg-center"
+      style={{
+        backgroundImage: "url('/fotos/Ongetiteld.png')",
+        backgroundBlendMode: "overlay",
+        opacity: 0.9,
+      }}
+    >
+      <div className="container mx-auto px-4 md:px-6 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Vind ons op Festivals!</h2>
@@ -29,6 +36,7 @@ const FestivalHighlight = () => {
           </div>
         </div>
       </div>
+      <div className="absolute inset-0 bg-waffle-cream/50 z-0"></div>
     </section>
   );
 };

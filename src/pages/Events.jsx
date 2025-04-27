@@ -42,7 +42,7 @@ const Foodtruck = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Boek onze Foodtruck</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            Wil je onze WaffelThing foodtruck op jouw evenement? Of het nu een verjaardag, bedrijfsfeest, bruiloft of festival is, wij zorgen voor een onvergetelijke wafelervaring!
+            Wil je onze WaffelThingNL foodtruck op jouw evenement? Of het nu een verjaardag, bedrijfsfeest, bruiloft of festival is, wij zorgen voor een onvergetelijke wafelervaring!
           </p>
         </div>
         
