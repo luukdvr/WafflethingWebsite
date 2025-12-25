@@ -40,13 +40,13 @@ const Foodtruck = () => {
     <div className="pt-24 pb-16 bg-waffle-cream">
       <div className="container mx-auto px-4 md:px-6">
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Boek onze Foodtruck</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">Boek onze Food Corner</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
             Wil je onze hartige wafels op jouw evenement? Of het nu een verjaardag, bedrijfsfeest, bruiloft of festival is, 
-            wij zorgen voor een onvergetelijke wafelervaring met onze unieke cheese burger en steak wafels!
+            wij zorgen voor een onvergetelijke wafelervaring met onze signature waffle burger, philly cheese steak en bowl!
           </p>
           <p className="text-base text-waffle-strawberry font-semibold mt-2">
-            🍔 Signature Hartige Wafels • 🥩 100% Halal • 🎉 Perfect voor elk event!
+            🍔 Signature Hartige Wafels • 🥩 Premium Kwaliteit • 🎉 Perfect voor elk event!
           </p>
         </div>
         

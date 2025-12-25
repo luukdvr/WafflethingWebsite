@@ -136,7 +136,7 @@ const Contact = () => {
                   <Mail className="text-waffle-strawberry mt-1 mr-4" />
                   <div>
                     <h3 className="font-bold mb-1">E-mail</h3>
-                    <p>info@WaffelThingNL.nl</p>
+                    <p>Waffelkingrotterdam@outlook.com</p>
                   </div>
                 </div>
                 
@@ -169,14 +169,14 @@ const Contact = () => {
         
         <div className="bg-white rounded-lg shadow-md p-8 border-l-4 border-waffle-strawberry">
           <div className="text-center mb-6">
-            <h2 className="text-2xl md:text-3xl font-bold mb-3 text-waffle-chocolate">Boek onze Foodtruck</h2>
+            <h2 className="text-2xl md:text-3xl font-bold mb-3 text-waffle-chocolate">Boek onze Food Corner</h2>
             <p className="text-gray-700 max-w-2xl mx-auto">
-              Wil je onze unieke hartige wafels op jouw evenement, bruiloft of bedrijfsfeest? 
-              We maken er graag een onvergetelijke culinaire ervaring van met onze signature cheese burger en steak wafels!
+              Wil je onze hartige wafels op jouw evenement, bruiloft of bedrijfsfeest? 
+              We maken er graag een onvergetelijke culinaire ervaring van met onze signature waffle burger, philly cheese steak en bowl!
             </p>
           </div>
           <div className="text-center">
-            <p className="text-lg font-semibold mb-4 text-waffle-chocolate">🍔 100% Halal • 🌟 Uniek in Nederland • 🎉 Perfect voor elk event!</p>
+            <p className="text-lg font-semibold mb-4 text-waffle-chocolate">🍔 Premium Kwaliteit • 🌟 Alleen bij ons • 🎉 Perfect voor elk event!</p>
             <a href="/events" className="inline-block bg-waffle-strawberry text-white hover:bg-waffle-caramel font-semibold py-3 px-8 rounded-lg transition-colors">
               Bekijk Event Opties
             </a>

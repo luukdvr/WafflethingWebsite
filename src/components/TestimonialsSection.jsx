@@ -6,7 +6,7 @@ import { Star } from 'lucide-react';
     id: 1,
     name: 'Ahmed K.',
     rating: 5,
-    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Uniek concept en 100% halal, perfect!'
+    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Geweldig concept!'
   },
   {
     id: 2,

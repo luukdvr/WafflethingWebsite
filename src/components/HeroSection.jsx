@@ -11,28 +11,9 @@ const HeroSection = () => {
               De <span className="text-waffle-strawberry">Enige Echte</span> Hartige Wafels van Nederland
             </h1>
             <p className="text-lg md:text-xl mb-8 text-waffle-chocolate/80">
-              <strong className="text-waffle-caramel">Uniek in Nederland!</strong> Onze signature cheese burger wafels en steak wafels 
-              zijn nergens anders te vinden. Ook heerlijke zoete varianten en onze nieuwe wafelbekers!
+              Onze signature waffle burger, philly cheese steak en bowl zijn nergens anders te vinden. 
+              Ook heerlijke zoete varianten en onze nieuwe WaffleCups!
             </p>
-            
-            <div className="bg-white/80 backdrop-blur rounded-xl p-6 mb-8">
-              <div className="flex flex-col space-y-4">
-                <div className="flex items-center gap-3">
-                  <Clock className="text-waffle-strawberry" />
-                  <div>
-                    <h3 className="font-bold">Openingstijden</h3>
-                    <p>Dinsdag t/m Zondag: 11:00 - 20:00</p>
-                    <p className="text-sm text-waffle-chocolate/70">Maandag gesloten</p>
-                  </div>
-                </div>
-                <div className="flex items-center gap-3">
-                  <Phone className="text-waffle-strawberry" />
-                  <div>
-                    <h3 className="font-bold">Telefonisch bestellen</h3>
-                  </div>
-                </div>
-              </div>
-            </div>
             
             <div className="flex flex-col sm:flex-row gap-4">
               <a href="tel:+31649100041" className="waffle-btn">
@@ -53,9 +34,6 @@ const HeroSection = () => {
               />
               <div className="absolute -bottom-4 -right-4 bg-waffle-strawberry text-white px-4 py-2 rounded-lg font-bold shadow-lg">
                 <span className="text-sm">UNIEK IN NL</span>
-              </div>
-              <div className="absolute -top-4 -left-4 bg-waffle-caramel text-white px-4 py-2 rounded-lg font-semibold shadow-lg">
-                <span className="text-sm">100% Halal</span>
               </div>
             </div>
           </div>

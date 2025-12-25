@@ -7,7 +7,7 @@ const reviews = [
     name: 'Ahmed K.',
     rating: 5,
     date: '10 december 2024',
-    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Het vlees is mals, de kaas perfect gesmolten en de wafel knapperig. Uniek concept en 100% halal, perfect! Ga zo door WaffelThingNL!',
+    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Het vlees is mals, de kaas perfect gesmolten en de wafel knapperig. Geweldig concept! Ga zo door WaffelThingNL!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9769-Web.jpg',
   },
   {
@@ -23,7 +23,7 @@ const reviews = [
     name: 'Fatima H.',
     rating: 5,
     date: '28 november 2024',
-    text: 'Eindelijk een plek waar ik hartige wafels kan eten die ook nog eens halal zijn! De chicken burger wafel is zo goed, en de porties zijn royaal. Mijn nieuwe favoriete plek!',
+    text: 'Eindelijk een plek waar ik hartige wafels kan eten! De chicken burger wafel is zo goed, en de porties zijn royaal. Mijn nieuwe favoriete plek!',
     image: null,
   },
   {

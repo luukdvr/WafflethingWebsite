@@ -14,7 +14,7 @@ const FestivalHighlight = () => {
               en heerlijke zoete varianten zorgen we voor een onvergetelijke culinaire ervaring.
             </p>
             <p className="text-base text-waffle-chocolate/80 mb-6">
-              🍔 100% Halal • 🌟 Uniek in Nederland • 🎉 Perfect voor festivals, bruiloften & bedrijfsfeesten
+              🍔 Premium Kwaliteit • 🌟 Alleen bij ons • 🎉 Perfect voor festivals, bruiloften & bedrijfsfeesten
             </p>
             <a 
               href="/events" 

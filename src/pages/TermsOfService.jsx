@@ -62,9 +62,9 @@ const TermsOfService = () => {
           </section>
 
           <section>
-            <h2 className="text-2xl font-bold mb-4 text-waffle-caramel">7. Allergenen en halal</h2>
+            <h2 className="text-2xl font-bold mb-4 text-waffle-caramel">7. Allergenen</h2>
             <p className="text-gray-700 mb-3">
-              Al ons vlees is 100% halal. Onze producten kunnen allergenen bevatten zoals gluten, melk, eieren en noten. 
+              Onze producten kunnen allergenen bevatten zoals gluten, melk, eieren en noten. 
               Indien u allergieën heeft, neem dan vooraf contact met ons op.
             </p>
             <p className="text-gray-700">

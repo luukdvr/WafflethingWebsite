@@ -27,6 +27,7 @@ const Navbar = () => {
 
   useEffect(() => {
     setIsMenuOpen(false);
+    window.scrollTo(0, 0);
   }, [location]);
 
   return (

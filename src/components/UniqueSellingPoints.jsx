@@ -4,13 +4,13 @@ const UniqueSellingPoints = () => {
   const usps = [
     {
       icon: '🍔',
-      title: 'Uniek in Nederland',
+      title: 'Alleen bij ons',
       description: 'De enige plek voor hartige wafels met premium burgers en steak'
     },
     {
       icon: '🥩',
-      title: '100% Halal',
-      description: 'Al ons vlees is halal gekeurd en van de hoogste kwaliteit'
+      title: 'Premium Kwaliteit',
+      description: 'Al ons vlees is van de hoogste kwaliteit'
     },
     {
       icon: '🌍',
@@ -30,7 +30,7 @@ const UniqueSellingPoints = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">Waarom It's a Waffle Thing?</h2>
           <p className="text-lg text-white max-w-2xl mx-auto">
-            Ontdek wat ons zo uniek maakt in de Nederlandse streetfood scene
+            Ontdek wat ons zo speciaal maakt in de Nederlandse streetfood scene
           </p>
         </div>
         
@@ -54,22 +54,22 @@ const UniqueSellingPoints = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-300 flex-shrink-0 mt-1" size={24} />
                 <div>
-                  <h4 className="font-semibold mb-1 text-white">Cheese Burger Wafel</h4>
+                  <h4 className="font-semibold mb-1 text-white">Waffle Burger</h4>
                   <p className="text-sm text-white">Sappige beef burger tussen knapperige wafels</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-300 flex-shrink-0 mt-1" size={24} />
                 <div>
-                  <h4 className="font-semibold mb-1 text-white">Steak Wafel</h4>
+                  <h4 className="font-semibold mb-1 text-white">Philly Cheese Steak</h4>
                   <p className="text-sm text-white">Premium steak met verse groenten</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-300 flex-shrink-0 mt-1" size={24} />
                 <div>
-                  <h4 className="font-semibold mb-1 text-white">Wafelbekers</h4>
-                  <p className="text-sm text-white">Ons nieuwste product - knapperig en veelzijdig</p>
+                  <h4 className="font-semibold mb-1 text-white">Bowl</h4>
+                  <p className="text-sm text-white">Heerlijke bowl combinatie</p>
                 </div>
               </div>
             </div>
