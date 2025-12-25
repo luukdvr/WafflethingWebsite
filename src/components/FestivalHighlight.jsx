@@ -28,7 +28,7 @@ const FestivalHighlight = () => {
           <div className="relative">
             <div className="relative rounded-lg overflow-hidden shadow-lg">
               <img
-                src="Nieuwe-foto's/20251120-Wafflethings-9821-Web.jpg"
+                src="Nieuwe-foto's/foto_foodtruck.png"
                 alt="It's a Waffle Thing Foodtruck"
                 className="w-full h-auto"
               />
