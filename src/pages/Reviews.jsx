@@ -15,7 +15,7 @@ const reviews = [
     name: 'Lisa de Vries',
     rating: 5,
     date: '3 oktober 2025',
-    text: 'Wow! De steak wafel overtrof al mijn verwachtingen. Zo\'n mooie combinatie van Afrikaanse wafels en moderne streetfood. De steak is perfect gebakken en de sauzen zijn heerlijk. Echt nergens anders te vinden!',
+    text: 'Wow! De steak wafel overtrof al mijn verwachtingen. Zo\'n mooie combinatie van unieke wafels en moderne streetfood. De steak is perfect gebakken en de sauzen zijn heerlijk. Echt nergens anders te vinden!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9717-Web.jpg',
   },
   {

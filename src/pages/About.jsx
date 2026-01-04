@@ -8,7 +8,7 @@ const About = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van It’s a Waffle Thing</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            It’s a Waffle Thing brengt traditionele Afrikaanse wafelrecepten samen met moderne streetfood-invloeden. 
+            It's a Waffle Thing brengt unieke wafelrecepten samen met moderne streetfood-invloeden. 
             We serveren exclusieve wafels in zoete en hartige varianten, met unieke toppings zoals seizoensfruit, 
             premium chocolade en vlees- en kipburgers.
           </p>
@@ -56,7 +56,7 @@ const About = () => {
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Kwaliteit & Versheid</h2>
             <p className="mb-4">
               Bij WaffleThingNL geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
-              We gebruiken biologische bloem, verse eieren van lokale boerderijen en echte Belgische roomboter.
+              We selecteren dagelijks verse producten en bereiden alles met zorg en aandacht.
             </p>
             <p className="mb-4">
               Onze toppings worden elke dag vers bereid, en we werken samen met lokale producenten voor onze 
@@ -64,7 +64,7 @@ const About = () => {
             </p>
             <p className="mb-4">
               Bij WaffelThingNL geloven we in unieke smaken. Onze exclusieve wafelrecepten zijn zorgvuldig ontwikkeld en 
-              nergens anders in Nederland verkrijgbaar. Dit maakt elke hap een unieke ervaring!
+              nergens anders in Nederland verkrijgbaar. Dit maakt elke hap een bijzondere ervaring!
             </p>
             <p>
               Ook vinden we duurzaamheid belangrijk. Onze verpakkingen zijn biologisch afbreekbaar en we proberen 

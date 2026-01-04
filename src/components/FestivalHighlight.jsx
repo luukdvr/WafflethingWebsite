@@ -35,7 +35,7 @@ const FestivalHighlight = () => {
               <div className="absolute bottom-6 left-6 right-6">
                 <div className="bg-white/95 backdrop-blur-sm p-4 rounded-lg">
                   <h3 className="text-2xl font-bold text-waffle-chocolate mb-1">It's a Waffle Thing</h3>
-                  <p className="text-gray-700">Unieke hartige wafels voor jouw event!</p>
+                  <p className="text-gray-700">Unieke hartige en zoete waffles voor jouw event!</p>
                 </div>
               </div>
             </div>

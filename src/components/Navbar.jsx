@@ -36,7 +36,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center">
             <span className="font-pacifico text-2xl md:text-3xl text-waffle-caramel">
-              WaffelThingNl
+              WaffleThingNl
             </span>
           </Link>
 
