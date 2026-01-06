@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-pacifico mb-4 text-waffle-strawberry">WaffelThingNL</h3>
             <p className="mb-4">
-              De enige plek voor hartige wafels met premium burgers en steak. 
+              De enige plek voor hartige waffles met premium burgers en steak. 
               Moderne streetfood met unieke smaakcombinaties.
             </p>
             <div className="flex space-x-4 mt-4">
@@ -75,7 +75,7 @@ const Footer = () => {
         
         <div className="border-t border-waffle-caramel/30 mt-10 pt-6 text-center text-sm">
           <p>&copy; {new Date().getFullYear()} WaffelThingNL - It's a Waffle Thing. Alle rechten voorbehouden. 
-            <span className="block mt-2 text-waffle-strawberry font-semibold">Hartige wafels, alleen bij ons verkrijgbaar! 🥩🧇</span>
+            <span className="block mt-2 text-waffle-strawberry font-semibold">Hartige waffles, alleen bij ons verkrijgbaar! 🥩🧇</span>
           </p>
         </div>
       </div>

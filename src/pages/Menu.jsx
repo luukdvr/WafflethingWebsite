@@ -7,11 +7,11 @@ const waffleCategories = [
 ];
 
 const menuItems = [
-  // Hartige Wafels
+  // Hartige Waffles
   {
     id: 1,
     name: 'WAFFLE Burger',
-    description: 'Sappige beef burger, verse sla, tomaat, ui en onze speciale saus tussen twee knapperige wafels.',
+    description: 'Sappige beef burger, verse sla, tomaat, ui en onze speciale saus tussen twee knapperige waffles.',
     category: 'savory',
     badge: 'BESTSELLER',
     popular: true
@@ -27,18 +27,18 @@ const menuItems = [
   {
     id: 3,
     name: 'WAFFLE Philly Cheese Steak',
-    description: 'Premium steak, verse groenten en onze huisgemaakte saus tussen perfecte wafels.',
+    description: 'Premium steak met turkey bacon & waffle thing saus tussen perfecte waffles.',
     category: 'savory',
     badge: 'PREMIUM',
     popular: true,
-    image: '/Nieuwe-foto\'s/20251120-Wafflethings-9947-Web.jpg'
   },
   {
     id: 4,
     name: 'WAFFLE Philly Steak Bowl',
     description: 'Heerlijke bowl met premium steak en verse ingrediënten.',
     category: 'savory',
-    popular: true
+    popular: true,
+    image: '/Nieuwe-foto\'s/20251120-Wafflethings-9947-Web.jpg'
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const menuItems = [
     image: '/Nieuwe-foto\'s/20251120-Wafflethings-9962-Web.jpg'
   },
   
-  // Zoete Wafels
+  // Zoete Waffles
   {
     id: 10,
     name: 'WAFFLE Cups',
@@ -73,14 +73,14 @@ const menuItems = [
   {
     id: 13,
     name: 'WAFFLE Tower',
-    description: 'Een indrukwekkende toren van heerlijke wafels met toppings.',
+    description: 'Een indrukwekkende toren van heerlijke waffles met toppings.',
     category: 'sweet',
     image: '/fotos/Afbeelding van WhatsApp op 2025-04-23 om 13.55.30_0cf39f0a.jpg'
   },
   {
     id: 14,
     name: 'WAFFLE Sweet Box',
-    description: '6 mini wafels in verschillende smaken, ideaal om te delen of voor jezelf!',
+    description: '6 mini waffles in verschillende smaken, ideaal om te delen of voor jezelf!',
     category: 'sweet',
     image: '/fotos/Afbeelding van WhatsApp op 2025-04-23 om 13.55.31_9e365bd3.jpg'
   },
@@ -112,10 +112,10 @@ const Menu = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Ons Menu</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto mb-2">
-            Onze hartige wafels met premium burgers en steak vind je nergens anders. Moderne streetfood met unieke smaakcombinaties.
+            Onze hartige waffles met premium burgers en steak vind je nergens anders. Moderne streetfood met unieke smaakcombinaties.
           </p>
           <p className="text-base text-waffle-chocolate/70 max-w-2xl mx-auto">
-            🥩 Al ons vlees is van de hoogste kwaliteit • 🌟 Exclusieve recepten • 🎨 Elke wafel is een kunstwerk
+            🥩 Al ons vlees is van de hoogste kwaliteit • 🌟 Exclusieve recepten • 🎨 Elke waffle is een kunstwerk
           </p>
         </div>
 

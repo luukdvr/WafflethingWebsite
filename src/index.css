@@ -118,9 +118,9 @@
     transform: rotate(-25deg);
   }
 
-  .background-pattern .wafel-1,
-  .background-pattern .wafel-2,
-  .background-pattern .wafel-3 {
+  .background-pattern .waffle-1,
+  .background-pattern .waffle-2,
+  .background-pattern .waffle-3 {
     position: absolute;
     background-image: url('/fotos/dessert-waffle-with-fruit-icon-isolated.png');
     background-size: contain;
@@ -129,7 +129,7 @@
     z-index: -1;
   }
 
-  .background-pattern .wafel-1 {
+  .background-pattern .waffle-1 {
     top: 30%;
     left: 40%;
     width: 100px;
@@ -137,7 +137,7 @@
     transform: rotate(10deg);
   }
 
-  .background-pattern .wafel-2 {
+  .background-pattern .waffle-2 {
     top: 50%;
     left: 60%;
     width: 150px;
@@ -145,7 +145,7 @@
     transform: rotate(-15deg);
   }
 
-  .background-pattern .wafel-3 {
+  .background-pattern .waffle-3 {
     top: 70%;
     left: 80%;
     width: 150px;

@@ -5,7 +5,7 @@ const UniqueSellingPoints = () => {
     {
       icon: '🍔',
       title: 'Alleen bij ons',
-      description: 'De enige plek voor hartige wafels met premium burgers en steak'
+      description: 'De enige plek voor hartige waffles met premium burgers en steak'
     },
     {
       icon: '🥩',
@@ -15,7 +15,7 @@ const UniqueSellingPoints = () => {
     {
       icon: '🌍',
       title: 'Werelds lekker',
-      description: 'Onze wafels zijn buiten gewoon lekker, die moet je proeven!'
+      description: 'Onze waffles zijn buitengewoon lekker, die moet je proeven!'
     },
     {
       icon: '✨',
@@ -55,7 +55,7 @@ const UniqueSellingPoints = () => {
                 <CheckCircle className="text-green-300 flex-shrink-0 mt-1" size={24} />
                 <div>
                   <h4 className="font-semibold mb-1 text-white">Waffle Burger</h4>
-                  <p className="text-sm text-white">Sappige beef burger tussen knapperige wafels</p>
+                  <p className="text-sm text-white">Sappige beef burger tussen knapperige waffles</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">

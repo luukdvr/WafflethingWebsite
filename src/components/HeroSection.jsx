@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="order-2 md:order-1">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight font-pacifico text-waffle-chocolate">
-              De <span className="text-waffle-strawberry">Enige Echte</span> Hartige Wafels van Nederland
+              De <span className="text-waffle-strawberry">Enige Echte</span> Hartige Waffles van Nederland
             </h1>
             <p className="text-lg md:text-xl mb-8 text-waffle-chocolate/80">
               Onze signature waffle burger, philly cheese steak en bowl zijn nergens anders te vinden. 
@@ -29,7 +29,7 @@ const HeroSection = () => {
             <div className="relative w-80 h-80 md:w-96 md:h-96">
               <img
                 src="/lovable-uploads/442e6b9e-a6ed-45b2-836b-1ada64824b2f.png"
-                alt="Signature Wafel"
+                alt="Signature Waffle"
                 className="w-full h-full object-cover rounded-lg shadow-xl border-4 border-white"
               />
               <div className="absolute -bottom-4 -right-4 bg-waffle-strawberry text-white px-4 py-2 rounded-lg font-bold shadow-lg">

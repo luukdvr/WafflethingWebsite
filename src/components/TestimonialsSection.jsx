@@ -6,19 +6,19 @@ import { Star } from 'lucide-react';
     id: 1,
     name: 'Ahmed K.',
     rating: 5,
-    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Geweldig concept!'
+    text: 'De cheese burger waffle is echt next level! Nooit gedacht dat een hartige waffle zo lekker kon zijn. Geweldig concept!'
   },
   {
     id: 2,
     name: 'Lisa de Vries',
     rating: 5,
-    text: 'Wow! De steak wafel overtrof al mijn verwachtingen. Perfect gebakken steak met heerlijke sauzen. Echt nergens anders te vinden!'
+    text: 'Wow! De steak waffle overtrof al mijn verwachtingen. Perfect gebakken steak met heerlijke sauzen. Echt nergens anders te vinden!'
   },
   {
     id: 3,
     name: 'Emma Bakker',
     rating: 5,
-    text: 'De wafelbekers zijn geweldig! Mijn kinderen zijn er dol op en ik vind de hartige varianten heerlijk. Perfecte mix van zoet en hartig op het menu!'
+    text: 'De wafflebekers zijn geweldig! Mijn kinderen zijn er dol op en ik vind de hartige varianten heerlijk. Perfecte mix van zoet en hartig op het menu!'
   }
 ];
 
@@ -31,7 +31,7 @@ const TestimonialsSection = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Wat Onze Fans Zeggen</h2>
           <p className="text-lg text-waffle-chocolate/80 max-w-2xl mx-auto">
-            Ontdek waarom iedereen zo enthousiast is over onze unieke hartige wafels en nieuwe wafelbekers!
+            Ontdek waarom iedereen zo enthousiast is over onze unieke hartige waffles en nieuwe wafflebekers!
           </p>
         </div>
         

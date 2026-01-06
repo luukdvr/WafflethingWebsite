@@ -10,7 +10,7 @@ const FestivalHighlight = () => {
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Boek Ons Voor Jouw Event!</h2>
             <p className="text-lg text-waffle-chocolate/80 mb-4">
-              Onze foodtruck is dé hit op elk evenement! Met onze unieke hartige wafels (cheese burger & steak) 
+              Onze foodtruck is dé hit op elk evenement! Met onze unieke hartige waffles (cheese burger & steak) 
               en heerlijke zoete varianten zorgen we voor een onvergetelijke culinaire ervaring.
             </p>
             <p className="text-base text-waffle-chocolate/80 mb-6">

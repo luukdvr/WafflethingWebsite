@@ -38,7 +38,7 @@ const Contact = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Neem Contact Op</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            Heb je vragen over onze unieke hartige wafels of wil je onze foodtruck boeken voor een evenement? 
+            Heb je vragen over onze unieke hartige waffles of wil je onze foodtruck boeken voor een evenement? 
             We horen graag van je!
           </p>
         </div>
@@ -171,7 +171,7 @@ const Contact = () => {
           <div className="text-center mb-6">
             <h2 className="text-2xl md:text-3xl font-bold mb-3 text-waffle-chocolate">Boek onze Food Corner</h2>
             <p className="text-gray-700 max-w-2xl mx-auto">
-              Wil je onze hartige wafels op jouw evenement, bruiloft of bedrijfsfeest? 
+              Wil je onze hartige waffles op jouw evenement, bruiloft of bedrijfsfeest? 
               We maken er graag een onvergetelijke culinaire ervaring van met onze signature waffle burger, philly cheese steak en bowl!
             </p>
           </div>

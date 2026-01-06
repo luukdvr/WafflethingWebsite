@@ -8,8 +8,8 @@ const About = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Het Verhaal van It’s a Waffle Thing</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            It's a Waffle Thing brengt unieke wafelrecepten samen met moderne streetfood-invloeden. 
-            We serveren exclusieve wafels in zoete en hartige varianten, met unieke toppings zoals seizoensfruit, 
+            It's a Waffle Thing brengt unieke wafflerecepten samen met moderne streetfood-invloeden.
+            We serveren exclusieve waffles in zoete en hartige varianten, met unieke toppings zoals seizoensfruit, 
             premium chocolade en vlees- en kipburgers.
           </p>
         </div>
@@ -18,7 +18,7 @@ const About = () => {
           <div>
             <h2 className="text-2xl md:text-3xl font-bold mb-4 text-waffle-caramel">Wat Ons Uniek Maakt</h2>
             <p className="mb-4 text-lg">
-              Wij zijn de enige die hartige wafels combineren met premium streetfood. Onze signature waffle burger, 
+              Wij zijn de enige die hartige waffles combineren met premium streetfood. Onze signature waffle burger, 
               philly cheese steak en bowl zijn nergens anders te vinden!
             </p>
             <p className="mb-4">
@@ -47,7 +47,7 @@ const About = () => {
           <div className="order-2 md:order-1">
             <img 
               src="Nieuwe-foto's/20251120-Wafflethings-9769-Web.jpg" 
-              alt="Familie geniet van wafels"
+              alt="Familie geniet van waffles"
               className="rounded-lg shadow-md hover:scale-105 transition-transform w-full"
             />
           </div>
@@ -55,7 +55,7 @@ const About = () => {
           <div className="order-1 md:order-2">
             <h2 className="text-2xl md:text-3xl font-bold mb-4">Kwaliteit & Versheid</h2>
             <p className="mb-4">
-              Bij WaffleThingNL geloven we dat de beste wafels alleen gemaakt kunnen worden met de beste ingrediënten. 
+              Bij WaffleThingNL geloven we dat de beste waffles alleen gemaakt kunnen worden met de beste ingrediënten. 
               We selecteren dagelijks verse producten en bereiden alles met zorg en aandacht.
             </p>
             <p className="mb-4">
@@ -63,7 +63,7 @@ const About = () => {
               aardbeien, chocolade en andere lekkernijen.
             </p>
             <p className="mb-4">
-              Bij WaffelThingNL geloven we in unieke smaken. Onze exclusieve wafelrecepten zijn zorgvuldig ontwikkeld en 
+              Bij WaffelThingNL geloven we in unieke smaken. Onze exclusieve wafflerecepten zijn zorgvuldig ontwikkeld en 
               nergens anders in Nederland verkrijgbaar. Dit maakt elke hap een bijzondere ervaring!
             </p>
             <p>
@@ -77,7 +77,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
             <div>
               <h3 className="text-3xl font-bold text-waffle-strawberry mb-2">20+</h3>
-              <p className="text-lg">Wafelrecepten</p>
+              <p className="text-lg">Wafflerecepten</p>
             </div>
             <div>
               <h3 className="text-3xl font-bold text-waffle-strawberry mb-2">50+</h3>

@@ -7,7 +7,7 @@ const reviews = [
     name: 'Ahmed K.',
     rating: 5,
     date: '15 december 2025',
-    text: 'De cheese burger wafel is echt next level! Nooit gedacht dat een hartige wafel zo lekker kon zijn. Het vlees is mals, de kaas perfect gesmolten en de wafel knapperig. Geweldig concept! Ga zo door WaffelThingNL!',
+    text: 'De cheese burger waffle is echt next level! Nooit gedacht dat een hartige waffle zo lekker kon zijn. Het vlees is mals, de kaas perfect gesmolten en de waffle knapperig. Geweldig concept! Ga zo door WaffelThingNL!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9769-Web.jpg',
   },
   {
@@ -15,7 +15,7 @@ const reviews = [
     name: 'Lisa de Vries',
     rating: 5,
     date: '3 oktober 2025',
-    text: 'Wow! De steak wafel overtrof al mijn verwachtingen. Zo\'n mooie combinatie van unieke wafels en moderne streetfood. De steak is perfect gebakken en de sauzen zijn heerlijk. Echt nergens anders te vinden!',
+    text: 'Wow! De steak waffle overtrof al mijn verwachtingen. Zo\'n mooie combinatie van unieke waffles en moderne streetfood. De steak is perfect gebakken en de sauzen zijn heerlijk. Echt nergens anders te vinden!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9717-Web.jpg',
   },
   {
@@ -23,7 +23,7 @@ const reviews = [
     name: 'Fatima H.',
     rating: 5,
     date: '22 augustus 2025',
-    text: 'Eindelijk een plek waar ik hartige wafels kan eten! De chicken burger wafel is zo goed, en de porties zijn royaal. Mijn nieuwe favoriete plek!',
+    text: 'Eindelijk een plek waar ik hartige waffles kan eten! De chicken burger waffle is zo goed, en de porties zijn royaal. Mijn nieuwe favoriete plek!',
     image: null,
   },
   {
@@ -31,7 +31,7 @@ const reviews = [
     name: 'Emma Bakker',
     rating: 5,
     date: '14 juni 2025',
-    text: 'De wafelbekers zijn geweldig! Mijn kinderen zijn er dol op en ik vind de hartige varianten heerlijk. Perfecte mix van zoet en hartig op het menu. De presentatie is ook prachtig!',
+    text: 'De wafflebekers zijn geweldig! Mijn kinderen zijn er dol op en ik vind de hartige varianten heerlijk. Perfecte mix van zoet en hartig op het menu. De presentatie is ook prachtig!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9630-Web.jpg',
   },
   {
@@ -39,7 +39,7 @@ const reviews = [
     name: 'Thijs de Jong',
     rating: 5,
     date: '7 april 2025',
-    text: 'Als streetfood liefhebber ben ik echt onder de indruk. De double cheese burger wafel is waanzinnig! Zo veel smaak en de wafels zijn perfect gebakken. Dit is echt iets unieks in Nederland.',
+    text: 'Als streetfood liefhebber ben ik echt onder de indruk. De double cheese burger waffle is waanzinnig! Zo veel smaak en de waffles zijn perfect gebakken. Dit is echt iets unieks in Nederland.',
     image: null,
   },
   {
@@ -47,7 +47,7 @@ const reviews = [
     name: 'Yasmin A.',
     rating: 5,
     date: '19 februari 2025',
-    text: 'De Aardbei Deluxe wafel voor toe na mijn cheese burger wafel - perfecte combinatie! De zoete wafels zijn ook super, maar die hartige wafels maken het echt speciaal. Top service ook!',
+    text: 'De Aardbei Deluxe waffle voor toe na mijn cheese burger waffle - perfecte combinatie! De zoete waffles zijn ook super, maar die hartige waffles maken het echt speciaal. Top service ook!',
     image: '/Nieuwe-foto%27s/20251120-Wafflethings-9625-Web.jpg',
   }
 ];
@@ -82,7 +82,7 @@ const Reviews = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Wat Onze Fans Zeggen</h1>
           <p className="text-lg text-waffle-chocolate/80 max-w-3xl mx-auto">
-            Ontdek wat onze klanten vinden van onze unieke hartige wafels en heerlijke zoete varianten. 
+            Ontdek wat onze klanten vinden van onze unieke hartige waffles en heerlijke zoete varianten. 
             <strong className="text-waffle-strawberry"> Lees waarom iedereen zo enthousiast is!</strong>
           </p>
         </div>
@@ -143,7 +143,7 @@ const Reviews = () => {
           {submitted ? (
             <div className="text-center p-6 bg-green-50 rounded-lg">
               <h3 className="text-xl font-bold text-green-600 mb-2">Bedankt voor je review!</h3>
-              <p className="mb-4">Je feedback is ontvangen en helpt anderen om onze wafels te ontdekken.</p>
+              <p className="mb-4">Je feedback is ontvangen en helpt anderen om onze waffles te ontdekken.</p>
               <button 
                 onClick={() => setSubmitted(false)} 
                 className="waffle-btn"

@@ -21,11 +21,11 @@ const NotFound = () => {
           <div className="absolute inset-0 bg-waffle-pink rounded-full animate-bounce-subtle"></div>
           <img 
             src="/lovable-uploads/442e6b9e-a6ed-45b2-836b-1ada64824b2f.png" 
-            alt="Wafel" 
+            alt="Waffle" 
             className="relative z-10 w-full h-full object-contain"
           />
         </div>
-        <p className="text-xl md:text-2xl text-waffle-chocolate mb-8">Oeps! Deze wafel vinden we niet terug!</p>
+        <p className="text-xl md:text-2xl text-waffle-chocolate mb-8">Oeps! Deze waffle vinden we niet terug!</p>
         <Link to="/" className="waffle-btn">
           Terug naar Home
         </Link>
